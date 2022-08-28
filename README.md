@@ -3,7 +3,7 @@ This repository provides an unofficial pytorch implementation of the paper ["Tow
 
 Some code for the data preparation and the stacked hourglass network implementation is taken from this repository: [pytorch_stacked_hourglass](https://github.com/princeton-vl/pytorch_stacked_hourglass).
 
-A live demo flask web application can be found in this [repository]().
+A live demo flask web application can be found in this [repository](https://github.com/dkurzend/Human_Pose_Estimation_Flask_App).
 
 ### Dataset
 - [x] MPII Human Pose
