@@ -1,0 +1,4 @@
+model loadeing time:  0.007885746161142985 minutes
+model loading to cuda time:  0.9013940930366516 minutes
+[SGSC] number of parameters: 13689944
+DONE!

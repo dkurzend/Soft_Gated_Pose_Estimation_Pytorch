@@ -1,0 +1,4 @@
+model loadeing time:  0.012684059143066407 minutes
+model loading to cuda time:  0.6112761497497559 minutes
+[SHG] number of parameters: 32819328
+DONE!
