@@ -28,7 +28,7 @@ A live demo flask web application can be found in this [repository]().
     ```
     git clone https://github.com/dkurzend/Soft_Gated_Pose_Estimation_Pytorch.git
     ```
-2. Install [miniconda](https://docs.conda.io/en/latest/miniconda.html) and create a virtual environment and activate it.
+2. Install [miniconda](https://docs.conda.io/en/latest/miniconda.html) and create a virtual environment.
     ```
     conda create --name hpe_env
     ```
@@ -74,7 +74,13 @@ Both papers use for the final prediction the average of the original image and t
 
 ## Results
 
-![Example prediction](/presentation/img_with_keypoints.png.png)
+
+![Example prediction](/presentation/img_with_keypoints.png)            |  ![Example prediction](/presentation/kid_with_kp.png)
+:-------------------------:|:-------------------------:
+
+
+
+
 ### Stacked Hourglass Network
 <p>Val PCK @, 0.5 , total : 0.875 , count: 44239<br>
 Val PCK @, 0.5 , ankle : 0.772 , count: 4234<br>
