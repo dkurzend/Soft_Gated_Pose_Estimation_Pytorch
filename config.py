@@ -14,7 +14,7 @@ config = {
     },
 
     'train': {
-        'epochs': 1,
+        'epochs': 200,
         'batchsize': 24,
         'input_res': 256,
         'output_res': 64,

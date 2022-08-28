@@ -7,8 +7,6 @@ from PIL import Image
 
 annot_dir = 'data/MPII/annot'
 img_dir = 'data/MPII/images'
-img_dir = '/home/stud69/dev/pytorch_stacked_hourglass/data/MPII/images'
-
 
 class MPII():
     def __init__(self):
